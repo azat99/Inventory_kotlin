@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="log out"
+        android:id="@+id/selectFilialFragment"/>
+
+    <item
+        android:id="@+id/deleteDocument"
+        android:title="Delete Docs"/>
+
+    <item
+        android:id="@+id/deleteDetails"
+        android:title="Delete All Details"/>
+
+    <item
+        android:id="@+id/archiveFragment"
+        android:title="Архив"/>
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:title="В архив"
+    android:id="@+id/toArchiv"/>
+
+    <item
+        android:title="Просмотр"
+        android:id="@+id/toDetails"/>
+
+    <item
+        android:title="Отправить"
+        android:id="@+id/toSend"/>
+
+</menu>
