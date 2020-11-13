@@ -13,7 +13,7 @@ import retrofit2.http.GET
 import java.util.concurrent.TimeUnit
 
 
-const val BASE_URL = "https://api.kmf.kz:8443/practice/"
+const val BASE_URL = "url"
 
 interface ApiService {
 
